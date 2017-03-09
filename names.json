@@ -1,0 +1,596 @@
+[
+  {
+    "1": "AdWords Business Credit Card",
+    "2": "adwordsbusiness",
+    "fileName": "adwordsbusiness.creditCard.png",
+    "url": "https://d.comenity.net/adwords/"
+  },
+  {
+    "1": "Alon Credit Card",
+    "2": "alon",
+    "fileName": "alon.creditCard.png",
+    "url": "https://d.comenity.net/alon/"
+  },
+  {
+    "1": "American Credit Card",
+    "2": "american",
+    "fileName": "american.creditCard.png",
+    "url": "https://d.comenity.net/american/"
+  },
+  {
+    "1": "American Home Credit Card",
+    "2": "americanhome",
+    "fileName": "americanhome.creditCard.png",
+    "url": "https://d.comenity.net/americanhome/"
+  },
+  {
+    "1": "American Kennel Club Credit Card",
+    "2": "americankennelclub",
+    "fileName": "americankennelclub.creditCard.png",
+    "url": "https://c.comenity.net/akc/"
+  },
+  {
+    "1": "American Signature Furniture Credit Card",
+    "2": "americansignaturefurniture",
+    "fileName": "americansignaturefurniture.creditCard.png",
+    "url": "https://d.comenity.net/americansignature/"
+  },
+  {
+    "1": "Anne Geddes Credit Card",
+    "2": "annegeddes",
+    "fileName": "annegeddes.creditCard.png",
+    "url": "https://d.comenity.net/annegeddes/"
+  },
+  {
+    "1": "Annie Sez Credit Card",
+    "2": "anniesez",
+    "fileName": "anniesez.creditCard.png",
+    "url": "https://d.comenity.net/anniesez/"
+  },
+  {
+    "1": "Ashley Stewart Credit Card",
+    "2": "ashleystewart",
+    "fileName": "ashleystewart.creditCard.png",
+    "url": "https://d.comenity.net/ashleystewart/"
+  },
+  {
+    "1": "Barney’s New York Credit Card",
+    "2": "barneysnewyork",
+    "fileName": "barneysnewyork.creditCard.png",
+    "url": "https://d.comenity.net/barneysnewyork/"
+  },
+  {
+    "1": "Bed Bath & Beyond Credit Card",
+    "2": "bedbathbeyond",
+    "fileName": "bedbathbeyond.creditCard.png",
+    "url": "https://d.comenity.net/bedbathandbeyond/"
+  },
+  {
+    "1": "Big Lots Credit Card",
+    "2": "biglots",
+    "fileName": "biglots.creditCard.png",
+    "url": "https://d.comenity.net/biglots/"
+  },
+  {
+    "1": "Blue Nile Credit Card",
+    "2": "bluenile",
+    "fileName": "bluenile.creditCard.png",
+    "url": "https://d.comenity.net/bluenile/"
+  },
+  {
+    "1": "Boscovs Credit Card",
+    "2": "boscovs",
+    "fileName": "boscovs.creditCard.png",
+    "url": "https://d.comenity.net/boscovs/"
+  },
+  {
+    "1": "Brownstone Studio Credit Card",
+    "2": "brownstonestudio",
+    "fileName": "brownstonestudio.creditCard.png",
+    "url": "https://d.comenity.net/brownstonestudio/"
+  },
+  {
+    "1": "BrylaneHome Credit Card",
+    "2": "brylanehome",
+    "fileName": "brylanehome.creditCard.png",
+    "url": "https://c.comenity.net/brylanehome/"
+  },
+  {
+    "1": "Camping World/Good Sam Credit Card",
+    "2": "campingworldgoodsam",
+    "fileName": "campingworldgoodsam.creditCard.png",
+    "url": "https://c.comenity.net/goodsamcampingworld/"
+  },
+  {
+    "1": "Carter Lumber Credit Card",
+    "2": "carterlumber",
+    "fileName": "carterlumber.creditCard.png",
+    "url": "https://d.comenity.net/carterlumbercommercial/"
+  },
+  {
+    "1": "Children’s Place Credit Card",
+    "2": "childrensplace",
+    "fileName": "childrensplace.creditCard.png",
+    "url": "https://d.comenity.net/childrensplace/"
+  },
+  {
+    "1": "Christopher & Banks Credit Card",
+    "2": "christopherbanks",
+    "fileName": "christopherbanks.creditCard.png",
+    "url": "https://c.comenity.net/christopherandbanks/"
+  },
+  {
+    "1": "Coldwater Creek Credit Card",
+    "2": "coldwatercreek",
+    "fileName": "coldwatercreek.creditCard.png",
+    "url": "https://d.comenity.net/coldwatercreekcard/"
+  },
+  {
+    "1": "Colombian Emeralds Credit Card",
+    "2": "colombianemeralds",
+    "fileName": "colombianemeralds.creditCard.png",
+    "url": "https://c.comenity.net/coldwatercreekcard/"
+  },
+  {
+    "1": "Crescent Jewelers Inc Credit Card",
+    "2": "crescentjewelersinc",
+    "fileName": "crescentjewelersinc.creditCard.png",
+    "url": "https://d.comenity.net/crescentjewelers/"
+  },
+  {
+    "1": "Design Within Reach Credit Card",
+    "2": "designwithinreach",
+    "fileName": "designwithinreach.creditCard.png",
+    "url": "https://d.comenity.net/dwr/"
+  },
+  {
+    "1": "Domestications Credit Card",
+    "2": "domestications",
+    "fileName": "domestications.creditCard.png",
+    "url": "https://c.comenity.net/domestications/"
+  },
+  {
+    "1": "Draper’s & Damon’s Credit Card",
+    "2": "drapersdamons",
+    "fileName": "drapersdamons.creditCard.png",
+    "url": "https://d.comenity.net/drapers/"
+  },
+  {
+    "1": "Dsw Credit Card",
+    "2": "dsw",
+    "fileName": "dsw.creditCard.png",
+    "url": "https://d.comenity.net/dsw/"
+  },
+  {
+    "1": "Dunlaps Credit Card",
+    "2": "dunlaps",
+    "fileName": "dunlaps.creditCard.png",
+    "url": "https://d.comenity.net/dunlaps/"
+  },
+  {
+    "1": "Earthwise Windows Credit Card",
+    "2": "earthwisewindows",
+    "fileName": "earthwisewindows.creditCard.png",
+    "url": "https://d.comenity.net/earthwisewindowsdoors/"
+  },
+  {
+    "1": "Fashion Bug Credit Card",
+    "2": "fashionbug",
+    "fileName": "fashionbug.creditCard.png",
+    "url": "https://c.comenity.net/fashionbug/"
+  },
+  {
+    "1": "Forever21 Credit Card",
+    "2": "forever21",
+    "fileName": "forever21.creditCard.png",
+    "url": "https://d.comenity.net/forever21/"
+  },
+  {
+    "1": "Fuel Rewards Credit Card",
+    "2": "fuelrewards",
+    "fileName": "fuelrewards.creditCard.png",
+    "url": "https://d.comenity.net/fr-mastercard/"
+  },
+  {
+    "1": "Friedman’s Jewelers Credit Card",
+    "2": "friedmansjewelers",
+    "fileName": "friedmansjewelers.creditCard.png",
+    "url": "https://d.comenity.net/friedmans/"
+  },
+  {
+    "1": "fullbeauty Credit Card",
+    "2": "fullbeauty",
+    "fileName": "fullbeauty.creditCard.png",
+    "url": "https://c.comenity.net/fullbeauty/"
+  },
+  {
+    "1": "Garden Ridge Credit Card",
+    "2": "gardenridge",
+    "fileName": "gardenridge.creditCard.png",
+    "url": "https://d.comenity.net/gardenridge/"
+  },
+  {
+    "1": "Gardner-White Credit Card",
+    "2": "gardner-white",
+    "fileName": "gardner-white.creditCard.png",
+    "url": "https://d.comenity.net/gardner-white/"
+  },
+  {
+    "1": "Gem Account Credit Card",
+    "2": "gemaccount",
+    "fileName": "gemaccount.creditCard.png",
+    "url": "https://d.comenity.net/gemaccount/"
+  },
+  {
+    "1": "Goody’s Credit Card",
+    "2": "goodys",
+    "fileName": "goodys.creditCard.png",
+    "url": "https://d.comenity.net/goodyscard/"
+  },
+  {
+    "1": "Haband Credit Card",
+    "2": "haband",
+    "fileName": "haband.creditCard.png",
+    "url": "https://c.comenity.net/haband/"
+  },
+  {
+    "1": "Hannoush Credit Card",
+    "2": "hannoush",
+    "fileName": "hannoush.creditCard.png",
+    "url": "https://d.comenity.net/preferredclientaccount/"
+  },
+  {
+    "1": "Home & Garden Showplace Credit Card",
+    "2": "home_gardenshowplace",
+    "fileName": "home_gardenshowplace.creditCard.png",
+    "url": "https://d.comenity.net/gardenplacediscover/"
+  },
+  {
+    "1": "Hot Topic Credit Card",
+    "2": "hottopic",
+    "fileName": "hottopic.creditCard.png",
+    "url": "https://d.comenity.net/hottopic/"
+  },
+  {
+    "1": "iComfort Credit Card",
+    "2": "icomfort",
+    "fileName": "icomfort.creditCard.png",
+    "url": "https://d.comenity.net/icomfort/"
+  },
+  {
+    "1": "Iddeal Credit Card",
+    "2": "iddeal",
+    "fileName": "iddeal.creditCard.png",
+    "url": "https://d.comenity.net/iddjewelry/"
+  },
+  {
+    "1": "Kane Furniture Credit Card",
+    "2": "kanefurniture",
+    "fileName": "kanefurniture.creditCard.png",
+    "url": "https://d.comenity.net/kane/"
+  },
+  {
+    "1": "KingSize Credit Card",
+    "2": "kingsize",
+    "fileName": "kingsize.creditCard.png",
+    "url": "https://c.comenity.net/kingsize/"
+  },
+  {
+    "1": "Kohler Generators Credit Card",
+    "2": "kohlergenerators",
+    "fileName": "kohlergenerators.creditCard.png",
+    "url": "https://d.comenity.net/kohlergenerators/"
+  },
+  {
+    "1": "LaRedoute Credit Card",
+    "2": "laredoute",
+    "fileName": "laredoute.creditCard.png",
+    "url": "https://c.comenity.net/laredoute/"
+  },
+  {
+    "1": "Lenovo Credit Card",
+    "2": "lenovo",
+    "fileName": "lenovo.creditCard.png",
+    "url": "https://d.comenity.net/lenovopreferredcard/"
+  },
+  {
+    "1": "Levin Furniture Credit Card",
+    "2": "levinfurniture",
+    "fileName": "levinfurniture.creditCard.png",
+    "url": "https://d.comenity.net/levinfurniture/"
+  },
+  {
+    "1": "Little Switzerland Jewels Credit Card",
+    "2": "littleswitzerlandjewels",
+    "fileName": "littleswitzerlandjewels.creditCard.png",
+    "url": "https://c.comenity.net/littleswitzerland/"
+  },
+  {
+    "1": "Mandee Credit Card",
+    "2": "mandee",
+    "fileName": "mandee.creditCard.png",
+    "url": "https://d.comenity.net/mandee/"
+  },
+  {
+    "1": "Marianne Credit Card",
+    "2": "marianne",
+    "fileName": "marianne.creditCard.png",
+    "url": "https://d.comenity.net/marianne/"
+  },
+  {
+    "1": "JD Williams Credit Card",
+    "2": "jdwilliams",
+    "fileName": "jdwilliams.creditCard.png",
+    "url": "https://d.comenity.net/jdwilliams/"
+  },
+  {
+    "1": "M.E.S.A Credit Card",
+    "2": "mesa",
+    "fileName": "mesa.creditCard.png",
+    "url": "https://d.comenity.net/mesamoney/"
+  },
+  {
+    "1": "Modell’s Credit Card",
+    "2": "modells",
+    "fileName": "modells.creditCard.png",
+    "url": "https://d.comenity.net/modellsmvpvisa/"
+  },
+  {
+    "1": "Motorola Credit Card",
+    "2": "motorola",
+    "fileName": "motorola.creditCard.png",
+    "url": "https://d.comenity.net/motorola/"
+  },
+  {
+    "1": "MyPoints Credit Card",
+    "2": "mypoints",
+    "fileName": "mypoints.creditCard.png",
+    "url": "https://d.comenity.net/mypoints/"
+  },
+  {
+    "1": "My World Credit Card",
+    "2": "myworld",
+    "fileName": "myworld.creditCard.png",
+    "url": "https://d.comenity.net/myworldcard/"
+  },
+  {
+    "1": "Newport News Credit Card",
+    "2": "newportnews",
+    "fileName": "newportnews.creditCard.png",
+    "url": "https://d.comenity.net/newportnews/"
+  },
+  {
+    "1": "NY&C (New York & Company) Credit Card",
+    "2": "nyc_newyorkcompany",
+    "fileName": "nyc_newyorkcompany.creditCard.png",
+    "url": "https://c.comenity.net/newyorkandcompany/"
+  },
+  {
+    "1": "Orchard Supply Hardware Credit Card",
+    "2": "orchardsupplyhardware",
+    "fileName": "orchardsupplyhardware.creditCard.png",
+    "url": "https://d.comenity.net/osh/"
+  },
+  {
+    "1": "Petite Sophisticate Credit Card",
+    "2": "petitesophisticate",
+    "fileName": "petitesophisticate.creditCard.png",
+    "url": "https://c.comenity.net/petitesophisticate/"
+  },
+  {
+    "1": "Piercing Pagoda Credit Card",
+    "2": "piercingpagoda",
+    "fileName": "piercingpagoda.creditCard.png",
+    "url": "https://d.comenity.net/pagoda/"
+  },
+  {
+    "1": "Priscilla of Boston Credit Card",
+    "2": "priscillaofboston",
+    "fileName": "priscillaofboston.creditCard.png",
+    "url": "https://d.comenity.net/priscillaofboston/"
+  },
+  {
+    "1": "RoomPlace Credit Card",
+    "2": "roomplace",
+    "fileName": "roomplace.creditCard.png",
+    "url": "https://d.comenity.net/theroomplace/"
+  },
+  {
+    "1": "Samuels Diamonds Credit Card",
+    "2": "samuelsdiamonds",
+    "fileName": "samuelsdiamonds.creditCard.png",
+    "url": "https://d.comenity.net/samuels/"
+  },
+  {
+    "1": "Sharper Image Credit Card",
+    "2": "sharperimage",
+    "fileName": "sharperimage.creditCard.png",
+    "url": "https://d.comenity.net/sharperimage/"
+  },
+  {
+    "1": "Shop At Home Credit Card",
+    "2": "shopathome",
+    "fileName": "shopathome.creditCard.png",
+    "url": "https://d.comenity.net/shopathometv/"
+  },
+  {
+    "1": "Spiegel Credit Card",
+    "2": "spiegel",
+    "fileName": "spiegel.creditCard.png",
+    "url": "https://d.comenity.net/spiegelcard/"
+  },
+  {
+    "1": "Sportman’s Guide Credit Card",
+    "2": "sportmansguide",
+    "fileName": "sportmansguide.creditCard.png",
+    "url": "https://c.comenity.net/sportsmansguide/"
+  },
+  {
+    "1": "The Company Store Credit Card",
+    "2": "thecompanystore",
+    "fileName": "thecompanystore .creditCard.png",
+    "url": "https://d.comenity.net/thecompanystore/"
+  },
+  {
+    "1": "Tile Shop Credit Card",
+    "2": "tileshop",
+    "fileName": "tileshop.creditCard.png",
+    "url": "https://d.comenity.net/thetileshop/"
+  },
+  {
+    "1": "Torrid Credit Card",
+    "2": "torrid",
+    "fileName": "torrid.creditCard.png",
+    "url": "https://c.comenity.net/torrid/"
+  },
+  {
+    "1": "UBG Credit Card",
+    "2": "ubg",
+    "fileName": "ubg.creditCard.png",
+    "url": "https://d.comenity.net/ubgconsumercredit/"
+  },
+  {
+    "1": "Under Gear Credit Card",
+    "2": "undergear",
+    "fileName": "undergear.creditCard.png",
+    "url": "https://d.comenity.net/undergear/"
+  },
+  {
+    "1": "Value City Furniture Credit Card (Comenity)",
+    "2": "valuecityfurniturecomenity",
+    "fileName": "valuecityfurniturecomenity.creditCard.png",
+    "url": "https://d.comenity.net/vcf/"
+  },
+  {
+    "1": "Venue Credit Card",
+    "2": "venue",
+    "fileName": "venue.creditCard.png",
+    "url": "https://d.comenity.net/venue/"
+  },
+  {
+    "1": "Venus Credit Card",
+    "2": "venus",
+    "fileName": "venus.creditCard.png",
+    "url": "https://d.comenity.net/venus/"
+  },
+  {
+    "1": "Vintage Kind Audio Credit Card",
+    "2": "vintagekindaudio",
+    "fileName": "vintagekindaudio.creditCard.png",
+    "url": "https://d.comenity.net/vintagekingaudio/"
+  },
+  {
+    "1": "Wayfair Credit Card",
+    "2": "wayfair",
+    "fileName": "wayfair.creditCard.png",
+    "url": "https://d.comenity.net/wayfaircard/"
+  },
+  {
+    "1": "Ulta Credit Card",
+    "2": "ulta",
+    "fileName": "ulta.creditCard.png",
+    "url": "https://d.comenity.net/ultamaterewardscreditcard/"
+  },
+  {
+    "1": "Alphaeon Credit Card",
+    "2": "alphaeon",
+    "fileName": "alphaeon.creditCard.png",
+    "url": "https://d.comenity.net/alphaeoncosmetic/"
+  },
+  {
+    "1": "American Laser Skincare Credit Card",
+    "2": "americanlaserskincare",
+    "fileName": "americanlaserskincare.creditCard.png",
+    "url": "https://d.comenity.net/americanlaser/"
+  },
+  {
+    "1": "Cosmeti Credit Card",
+    "2": "cosmeticredit",
+    "fileName": "cosmeticredit.creditCard.png",
+    "url": "https://d.comenity.net/cosmeticredit/"
+  },
+  {
+    "1": "HealthiPlan Credit Card",
+    "2": "healthiplan",
+    "fileName": "healthiplan.creditCard.png",
+    "url": "https://d.comenity.net/myhealthiplan/"
+  },
+  {
+    "1": "H3 WellnessPlus Credit Card",
+    "2": "h3wellnessplus",
+    "fileName": "h3wellnessplus.creditCard.png",
+    "url": "https://d.comenity.net/h3wellnesspluscard/"
+  },
+  {
+    "1": "Lifestyle Lift Credit Card",
+    "2": "lifestylelift",
+    "fileName": "lifestylelift.creditCard.png",
+    "url": "https://d.comenity.net/lifestylelift/"
+  },
+  {
+    "1": "MedChoice Credit Card",
+    "2": "medchoice",
+    "fileName": "medchoice.creditCard.png",
+    "url": "https://d.comenity.net/medchoicefinancial/"
+  },
+  {
+    "1": "My Smile Care Credit Card",
+    "2": "mysmilecare",
+    "fileName": "mysmilecare.creditCard.png",
+    "url": "https://d.comenity.net/mysmilecare/"
+  },
+  {
+    "1": "Your Tuition Solutions Credit Card",
+    "2": "yourtuitionsolutions",
+    "fileName": "yourtuitionsolutions.creditCard.png",
+    "url": "https://d.comenity.net/yourtuitionsolution/"
+  },
+  {
+    "1": "Westgate Resorts Credit Card",
+    "2": "westgateresorts",
+    "fileName": "westgateresorts.creditCard.png",
+    "url": "https://d.comenity.net/westgatecard/"
+  },
+  {
+    "1": "Grand Rental Station Credit Card",
+    "2": "grandrentalstation",
+    "fileName": "grandrentalstation.creditCard.png",
+    "url": "https://d.comenity.net/grandrentaldiscover/"
+  },
+  {
+    "1": "Lexus Credit Card",
+    "2": "lexuscreditcard",
+    "fileName": "lexuscreditcard.creditCard.png",
+    "url": "https://d.comenity.net/lexuspursuitsvisa/"
+  },
+  {
+    "1": "Taylor Rental Credit Card",
+    "2": "taylorrental",
+    "fileName": "taylorrental.creditCard.png",
+    "url": "https://d.comenity.net/taylorrentaldiscover/"
+  },
+  {
+    "1": "Toyota Credit Card",
+    "2": "toyota",
+    "fileName": "toyota.creditCard.png",
+    "url": "https://d.comenity.net/toyotarewardsvisa/"
+  },
+  {
+    "1": "Univision Credit Card",
+    "2": "univision",
+    "fileName": "univision.creditCard.png",
+    "url": "https://d.comenity.net/univisiontarjetadecredito/"
+  },
+  {
+    "1": "Farmers Insurance Credit Card",
+    "2": "farmersinsurance",
+    "fileName": "farmersinsurance.creditCard.png",
+    "url": "https://d.comenity.net/farmersrewardsvisa/"
+  },
+  {
+    "1": "Lending Club Credit Card",
+    "2": "lendingclubcreditcard",
+    "fileName": "lendingclubcreditcard.creditCard.png",
+    "url": "https://d.comenity.net/lendingclubpatientsolutions/"
+  }
+]
